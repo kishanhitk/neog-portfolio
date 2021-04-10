@@ -31,7 +31,7 @@ hr {
   margin: auto;
 }
 
-/** links **/
+
 .link {
   box-sizing: border-box;
   text-decoration: none;
@@ -56,9 +56,7 @@ hr {
   margin: 1rem 1rem 1rem 0rem;
 }
 
-/** look into BEM naming convention for CSS **/
 
-/** lists **/
 
 .list-non-bullet {
   list-style: none;
